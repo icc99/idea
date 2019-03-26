@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1553573880755" />
+      <file name="/Dummy.txt" timestamp="1553575059559">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/Sms4ApiApp.java" timestamp="1553575216724" />
+      <file name="/fragment.java" timestamp="1553575059550">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -11,7 +17,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
