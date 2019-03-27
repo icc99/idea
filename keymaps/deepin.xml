@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt f6" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
