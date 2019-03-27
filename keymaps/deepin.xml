@@ -1,0 +1,16 @@
+<keymap version="1" name="deepin" parent="$default">
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+</keymap>
