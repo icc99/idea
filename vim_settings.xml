@@ -6,13 +6,28 @@
       <file name="/Dummy.txt" timestamp="1553575059559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/Sms4ApiApp.java" timestamp="1553575216724" />
       <file name="/fragment.java" timestamp="1553575059550">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/demotest/src/main/java/com/mchuan/demo/DemoMain.java" timestamp="1553651073756">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPE9iamVjdCwgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIG1hcC5wdXQoIm9rIiwgIlZBTFVFIik7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCJvayIpKTsKICAgICAgICBpbnQgYSA9IDEwMDs=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPE9iamVjdCwgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIG1hcC5wdXQoIm9rIiwgIlZBTFVFIik7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCJvayIpKTsKICAgICAgICBpbnQgYSA9IDEwMDs=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
