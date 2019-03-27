@@ -6,16 +6,66 @@
       <file name="/Dummy.txt" timestamp="1553575059559">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/FastmarkEditProviderImplApplication.java" timestamp="1553682559545">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.java" timestamp="1553682717499" />
       <file name="/a.dummy" timestamp="1553582227669">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/code/mchuan/fastmark_edit_provider/pom.xml" timestamp="1553682814109">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3AccountService.java" timestamp="1553681359300" />
+      <file name="D:/code/lab/base/mc-boot/pom.xml" timestamp="1553683040036">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/resources/application.properties" timestamp="1553682406952" />
+      <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-api/src/main/java/com/mchuan/dto/TestBean.java" timestamp="1553682301183" />
+      <file name="editor.xml" timestamp="1553682268802">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1553575059550">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+Mi43LjE8L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICA8cGFyZW50PgogICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXBhcmVudDwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4xLjUuMi5SRUxFQVNFPC92ZXJzaW9uPgogICAgICAgIDxyZWxhdGl2ZVBhdGgvPgogICAgPC9wYXJlbnQ+</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
