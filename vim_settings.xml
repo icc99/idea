@@ -3,14 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/sms4/sms4-rest/src/main/resources/log4j2.xml" timestamp="1553662823461">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1553660852404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sms4/sms4-rest/src/main/java/com/mchuan/sms4/api/NetApi.java" timestamp="1553661922493" />
-      <file name="$USER_HOME$/code/sms4/sms4-rest/src/main/java/com/mchuan/sms4/api/Sms4ApiApp.java" timestamp="1553661875007" />
-      <file name="/fragment.java" timestamp="1553575059550">
+      <file name="/fragment.java" timestamp="1553662466090">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sms4/sms4-service/src/main/java/com/mchuan/sms4/model/BaseRequest.java" timestamp="1553661998771" />
+      <file name="$USER_HOME$/code/sms4/sms4-rest/src/main/resources/application.properties" timestamp="1553662758774">
+        <mark key="[" line="1" column="78" />
+      </file>
+      <file name="$USER_HOME$/code/sms4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" timestamp="1553662201846" />
       <file name="$USER_HOME$/IdeaProjects/demotest/src/main/java/com/mchuan/demo/DemoMain.java" timestamp="1553659469882">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="14" column="16" />
@@ -20,14 +29,20 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPE9iamVjdCwgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIG1hcC5wdXQoIm9rIiwgIlZBTFVFIik7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCJvayIpKTsKICAgICAgICBpbnQgYSA9IDEwMDs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8UHJvcGVydHkgbmFtZT0ibmFtZSI+JHtidW5kbGU6YXBwbGljYXRpb246c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWV9PC9Qcm9wZXJ0eT4K</text>
       </register>
       <register name="&quot;" type="4">
+        <text>sms4api</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICBIYXNoTWFwPE9iamVjdCwgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIG1hcC5wdXQoIm9rIiwgIlZBTFVFIik7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAuZ2V0KCJvayIpKTsKICAgICAgICBpbnQgYSA9IDEwMDs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>sms4api</text>
       </register>
     </registers>
     <search>
