@@ -3,13 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/FastmarkEditProviderImplApplication.java" timestamp="1553684139514">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="13" column="7" />
+      <file name="D:/code/mchuan/SMS4/sms4-cmpp-common/pom.xml" timestamp="1553872198956">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1553842330550" />
       <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-mq/1.5.0/mc-mq-1.5.0-sources.jar!/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1553864111085" />
       <file name="D:/code/mchuan/fastmark_edit_provider/pom.xml" timestamp="1553685307654">
         <mark key="[" line="10" column="0" />
@@ -17,32 +15,21 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.29.Final/netty-all-4.1.29.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java" timestamp="1553849876062" />
+      <file name="D:/code/mchuan/SMSGate/pom.xml" timestamp="1553872109915">
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="D:/code/lab/base/mc-boot/pom.xml" timestamp="1553684099621">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/cmpp/MCCMPPSubmitLongMessageHandler.java" timestamp="1553769917664" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-spring-context/0.2.2-RC1/nacos-spring-context-0.2.2-RC1-sources.jar!/com/alibaba/nacos/spring/context/annotation/config/NacosPropertySource.java" timestamp="1553864382596" />
-      <file name="D:/code/mchuan/fastmark_edit_provider/.gitignore" timestamp="1553683573052">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-redis/1.3.0/mc-redis-1.3.0-sources.jar!/com/mchuan/lettuce/RedisExt.java" timestamp="1553766776163" />
-      <file name="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/constants/RedisKey.java" timestamp="1553775210465" />
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1553871757656" />
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1553864407873">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="55" column="8" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/pom.xml" timestamp="1553684333601">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="16" column="26" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1553764763404" />
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" timestamp="1553766664687">
@@ -51,7 +38,27 @@
         <mark key="^" line="152" column="60" />
         <mark key="." line="152" column="60" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1553860665370" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/AbstractClientEndpointConnector.java" timestamp="1553872115237">
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="82" column="31" />
+        <mark key="." line="82" column="31" />
+      </file>
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionLoginManager.java" timestamp="1553871541460">
+        <mark key="[" line="213" column="19" />
+        <mark key="]" line="213" column="19" />
+        <mark key="." line="213" column="19" />
+        <mark key="^" line="213" column="17" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1553842330550" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-spring-context/0.2.2-RC1/nacos-spring-context-0.2.2-RC1-sources.jar!/com/alibaba/nacos/spring/context/annotation/config/NacosPropertySource.java" timestamp="1553864382596" />
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-redis/1.3.0/mc-redis-1.3.0-sources.jar!/com/mchuan/lettuce/RedisExt.java" timestamp="1553766776163" />
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLRouteManager.java" timestamp="1553871398706">
+        <mark key="[" line="117" column="28" />
+        <mark key="]" line="117" column="28" />
+        <mark key="." line="117" column="28" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/constants/RedisKey.java" timestamp="1553775210465" />
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1553872444703" />
       <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-boot/1.3.0/mc-boot-1.3.0-sources.jar!/com/mchuan/support/thread/IPBasedThreadPoolFactory.java" timestamp="1553862015801" />
     </filemarks>
     <jumps />
@@ -62,8 +69,8 @@
       <register name="1" type="2">
         <text encoding="base64">QENvbnN1bWVyQ2FsbGJhY2sodG9waWMgPSBDb25zdGFudHMuVE9QSUNfU1VCTUlULCBjb25zdW1lckdyb3VwID0gInNtczMtc3VibWl0LTItY29uc3VtZXIiLAogICAgICAgIGNvbnN1bWVUaHJlYWRNYXhTdHJpbmcgPSBTbXNTdWJtaXRDb25zdW1lci5USFJFQURTLCBjb25zdW1lVGhyZWFkTWluU3RyaW5nID0gU21zU3VibWl0Q29uc3VtZXIuVEhSRUFEUykK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENvbnN1bWVyQ2FsbGJhY2sodG9waWMgPSBDb25zdGFudHMuVE9QSUNfU1VCTUlULCBjb25zdW1lckdyb3VwID0gInNtczMtc3VibWl0LTItY29uc3VtZXIiLAogICAgICAgIGNvbnN1bWVUaHJlYWRNYXhTdHJpbmcgPSBTbXNTdWJtaXRDb25zdW1lci5USFJFQURTLCBjb25zdW1lVGhyZWFkTWluU3RyaW5nID0gU21zU3VibWl0Q29uc3VtZXIuVEhSRUFEUykK</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
@@ -90,7 +97,7 @@
         <text encoding="base64">CQkJCTxleGNsdXNpb24+CgkJCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItbG9nZ2luZzwvYXJ0aWZhY3RJZD4KCQkJCTwvZXhjbHVzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>routeFilter</text>
+        <text>error</text>
       </register>
     </registers>
     <search>
