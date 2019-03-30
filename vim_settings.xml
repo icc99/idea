@@ -3,24 +3,81 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/controller/IndexController.java" timestamp="1553912361380" />
       <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/utils/XXTeaUtils.java" timestamp="1553912335256" />
       <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/FastmarkEditProviderImplApplication.java" timestamp="1553912202513" />
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1553917603368" />
       <file name="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/constants/Constants.java" timestamp="1553917836261" />
+      <file name="/a.dummy" timestamp="1553918464339">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/lab/base/mc-dubbo/src/test/java/com/mchuan/dubbo/service/PayServiceImpl.java" timestamp="1553919175611">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/RouteFilter.java" timestamp="1553881020211">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.2/rocketmq-client-4.3.2-sources.jar!/org/apache/rocketmq/client/consumer/MQPullConsumerScheduleService.java" timestamp="1553916987189" />
+      <file name="D:/code/mchuan/SMSGate/pom.xml" timestamp="1553872109915">
+        <mark key="[" line="6" column="19" />
+      </file>
+      <file name="D:/code/lab/base/mc-redis/src/main/resources/mc/renew.lua" timestamp="1553878153393" />
+      <file name="D:/code/lab/base/mc-dubbo/src/test/resources/application.properties" timestamp="1553920174309">
+        <mark key="[" line="3" column="75" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1553917476847" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/boot/dubbo-spring-boot-starter/0.2.1.RELEASE/dubbo-spring-boot-starter-0.2.1.RELEASE.pom" timestamp="1553919597211" />
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-boot/1.3.0/mc-boot-1.3.0.jar!/com/mchuan/boot/interceptor/TimeoutDumpFilter.class" timestamp="1553912982760" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4SentService.java" timestamp="1553879960259">
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="70" column="3" />
+        <mark key="^" line="70" column="3" />
+        <mark key="." line="70" column="3" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/handler/Sms4ApiHandler.java" timestamp="1553917032907" />
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" timestamp="1553912621582">
+        <mark key="[" line="89" column="45" />
+        <mark key="]" line="89" column="45" />
+        <mark key="." line="89" column="45" />
+        <mark key="^" line="89" column="44" />
+      </file>
+      <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/controller/IndexController.java" timestamp="1553912361380" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1553917603368" />
+      <file name="D:/code/lab/base/mc-dubbo/src/test/java/com/mchuan/dubbo/api/PayInfo.java" timestamp="1553918678162">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/utils/HttpRequestManager.java" timestamp="1553912354483">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.2/rocketmq-client-4.3.2-sources.jar!/org/apache/rocketmq/client/consumer/MQPullConsumerScheduleService.java" timestamp="1553916987189" />
-      <file name="D:/code/lab/base/mc-redis/src/main/resources/mc/renew.lua" timestamp="1553878153393" />
+      <file name="D:/code/lab/base/mc-boot/pom.xml" timestamp="1553918540835">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="D:/code/lab/base/mc-dubbo/pom.xml" timestamp="1553919788536">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="38" column="26" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="38" column="26" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.2/rocketmq-client-4.3.2-sources.jar!/org/apache/rocketmq/client/consumer/DefaultMQPushConsumer.java" timestamp="1553917725626" />
+      <file name="D:/code/lab/base/mc-dubbo/src/test/java/com/mchuan/dubbo/api/PayApi.java" timestamp="1553918642143">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/SmsJettyWebServerCustomerizer.java" timestamp="1553917047359" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmitExt.java" timestamp="1553880985394">
         <mark key="[" line="56" column="11" />
@@ -28,7 +85,6 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="56" column="11" />
       </file>
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1553917476847" />
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1553881175409">
         <mark key="[" line="88" column="41" />
         <mark key="]" line="92" column="0" />
@@ -36,21 +92,52 @@
         <mark key="." line="92" column="0" />
       </file>
       <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/java/com/mchuan/service/ActivityService.java" timestamp="1553912299319" />
+      <file name="D:/code/lab/base/mc-test/src/main/java/com/mchuan/test/app/NoneDBTestApp.java" timestamp="1553919254345" />
+      <file name="D:/code/lab/base/mc-dubbo/src/test/java/com/mchuan/dubbo/service/DefaultDemoService.java" timestamp="1553919851038" />
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1553882182089">
         <mark key="[" line="338" column="41" />
         <mark key="]" line="338" column="0" />
         <mark key="." line="338" column="0" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" timestamp="1553766664687">
+        <mark key="[" line="152" column="61" />
+        <mark key="]" line="152" column="60" />
+        <mark key="^" line="152" column="60" />
+        <mark key="." line="152" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553919929692">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionLoginManager.java" timestamp="1553877931713">
+        <mark key="[" line="213" column="19" />
+        <mark key="]" line="213" column="19" />
+        <mark key="." line="213" column="19" />
+        <mark key="^" line="213" column="17" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsDispatchConsumer.java" timestamp="1553917758991" />
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-boot/1.3.0/mc-boot-1.3.0.jar!/com/mchuan/boot/interceptor/TimeoutDumpFilter.class" timestamp="1553912982760" />
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/handler/Sms4ApiHandler.java" timestamp="1553917032907" />
+      <file name="D:/code/lab/base/mc-dubbo/src/test/java/com/mchuan/dubbo/bootstrap/DubboTestRunner.java" timestamp="1553920222079">
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/mchuan/apisdk/1.2.0/apisdk-1.2.0-sources.jar!/com/mchuan/apisdk/kit/JsonKit.java" timestamp="1553912386504" />
       <file name="D:/code/mchuan/fastmark_edit_provider/fastmark_edit_provider-impl/src/main/resources/application.properties" timestamp="1553911945414" />
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" timestamp="1553912621582">
-        <mark key="[" line="89" column="45" />
-        <mark key="]" line="89" column="45" />
-        <mark key="." line="89" column="45" />
-        <mark key="^" line="89" column="44" />
+      <file name="D:/code/lab/base/example/src/main/java/com/mchuan/example/ExampleServer.java" timestamp="1553919439997" />
+      <file name="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/constants/RedisKey.java" timestamp="1553876242766">
+        <mark key="[" line="66" column="34" />
+        <mark key="]" line="66" column="34" />
+        <mark key="^" line="66" column="34" />
+        <mark key="." line="66" column="34" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/BackupSendedService.java" timestamp="1553875941981">
+        <mark key="[" line="137" column="88" />
+        <mark key="]" line="141" column="49" />
+        <mark key="." line="141" column="49" />
+        <mark key="^" line="141" column="49" />
+      </file>
+      <file name="/fragment.java" timestamp="1553919929679">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -58,38 +145,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oInNlbnQoe30p0tG+rbG7suXI67n9Iiwgc21zNHNlbnQuZ2V0SWQoKSk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSnNvbktpdC5mcm9tSnNvbigpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN5c2xvZyA9IGxvZyArICJAIiArIHRpbWUoKSArICIjIiArIHN5c2xvZzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFBheVNlcnZpY2VJbXBsIHsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgPSBzdWJtaXQuZ2V0Um91dGVJZExpc3QoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZUZpbHRlci5maWx0ZXIoc3VibWl0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSnNvbktpdC5mcm9tSnNvbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
