@@ -53,11 +53,13 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.12-MC/cmpp-core-2.1.12-MC.jar!/com/zx/sms/connect/manager/EndpointManager.class" timestamp="1553957750763" />
+      <file name="$MAVEN_REPOSITORY$/net/dongliu/requests/4.18.2/requests-4.18.2-sources.jar!/net/dongliu/requests/RequestBuilder.java" timestamp="1553961737730" />
       <file name="D:/code/lab/base/pom.xml" timestamp="1553935551578" />
       <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-mq/1.5.0/mc-mq-1.5.0-sources.jar!/com/mchuan/mq/producer/MCTransactionMQProducer.java" timestamp="1553934621828" />
       <file name="D:/code/lab/base/mc-mq/pom.xml" timestamp="1553935435131">
         <mark key="[" line="12" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/net/dongliu/requests/4.18.2/requests-4.18.2.jar!/net/dongliu/requests/executor/URLConnectionExecutor.class" timestamp="1553961894719" />
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/resources/application.properties" timestamp="1553950662427">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="16" />
