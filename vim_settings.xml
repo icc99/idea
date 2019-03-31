@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/constants/Constants.java" timestamp="1553939497304">
-        <mark key="'" line="18" column="16" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="22" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-common/4.3.2/rocketmq-common-4.3.2-sources.jar!/org/apache/rocketmq/common/message/MessageBatch.java" timestamp="1554004015765" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1553935410601">
+        <mark key="[" line="88" column="71" />
+        <mark key="]" line="88" column="121" />
+        <mark key="^" line="88" column="121" />
+        <mark key="." line="88" column="121" />
       </file>
       <file name="/a.dummy" timestamp="1553960882875">
         <mark key="[" line="0" column="0" />
@@ -22,15 +22,26 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" timestamp="1553933850518" />
-      <file name="D:/code/mchuan/SMS4/sms4-pool/src/main/java/com/mchuan/task/assign/AssignProducer.java" timestamp="1553938807852">
-        <mark key="[" line="212" column="34" />
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/resources/application.properties" timestamp="1553958356220">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-pool/src/main/java/com/mchuan/task/assign/AssignProducer.java" timestamp="1554004673033">
+        <mark key="[" line="213" column="52" />
+        <mark key="]" line="214" column="21" />
+        <mark key="^" line="214" column="21" />
+        <mark key="." line="214" column="21" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3RouteService.java" timestamp="1553957300849">
         <mark key="[" line="55" column="8" />
         <mark key="]" line="55" column="37" />
         <mark key="." line="55" column="37" />
         <mark key="^" line="55" column="37" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1554004171174">
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="19" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="55" column="19" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/MTPoolPuller.java" timestamp="1553955904209">
         <mark key="[" line="57" column="31" />
@@ -41,25 +52,48 @@
       <file name="D:/code/lab/base/mc-dubbo/src/main/java/com/mchuan/dubbo/service/DefaultDemoService.java" timestamp="1553925432655">
         <mark key="[" line="14" column="35" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-spring-context/0.2.2-RC1/nacos-spring-context-0.2.2-RC1-sources.jar!/com/alibaba/nacos/spring/context/event/DeferredApplicationEventPublisher.java" timestamp="1553936966770" />
-      <file name="$USER_HOME$/Desktop/SmsKit.class" timestamp="1553933908935" />
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitCandidateConsumer.java" timestamp="1553935734649">
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="27" column="88" />
+        <mark key="^" line="27" column="88" />
+        <mark key="." line="27" column="88" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/test/resources/submitExt.json" timestamp="1553936340479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-test/1.0.6/mc-test-1.0.6-sources.jar!/com/mchuan/test/app/TestApp.java" timestamp="1553936081429" />
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/test/resources/application.properties" timestamp="1553938270195">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.12-MC/cmpp-core-2.1.12-MC.jar!/com/zx/sms/connect/manager/EndpointManager.class" timestamp="1553957750763" />
-      <file name="$MAVEN_REPOSITORY$/net/dongliu/requests/4.18.2/requests-4.18.2-sources.jar!/net/dongliu/requests/RequestBuilder.java" timestamp="1553961737730" />
-      <file name="D:/code/lab/base/pom.xml" timestamp="1553935551578" />
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-mq/1.5.0/mc-mq-1.5.0-sources.jar!/com/mchuan/mq/producer/MCTransactionMQProducer.java" timestamp="1553934621828" />
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" timestamp="1553929426858">
+        <mark key="[" line="152" column="61" />
+        <mark key="]" line="152" column="60" />
+        <mark key="^" line="152" column="60" />
+        <mark key="." line="152" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553921745898">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/CharUtils.java" timestamp="1554003094828" />
+      <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/StringKit.java" timestamp="1554003335386">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="69" column="44" />
+        <mark key="." line="69" column="44" />
+        <mark key="^" line="69" column="44" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsBufferConsumer.java" timestamp="1553956142721">
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="52" column="90" />
+        <mark key="^" line="52" column="90" />
+        <mark key="." line="52" column="90" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1554002900443">
+        <mark key="[" line="135" column="5" />
+      </file>
       <file name="D:/code/lab/base/mc-mq/pom.xml" timestamp="1553935435131">
         <mark key="[" line="12" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/dongliu/requests/4.18.2/requests-4.18.2.jar!/net/dongliu/requests/executor/URLConnectionExecutor.class" timestamp="1553961894719" />
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/resources/application.properties" timestamp="1553950662427">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="16" />
@@ -69,6 +103,12 @@
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsBufferConsummer.java" timestamp="1553935800054">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+        <mark key="." line="54" column="37" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/PoolCheckService.java" timestamp="1553938917642">
         <mark key="[" line="449" column="56" />
@@ -80,57 +120,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-mq/1.6.0/mc-mq-1.6.0-sources.jar!/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1553935868195" />
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1553935410601">
-        <mark key="[" line="88" column="71" />
-        <mark key="]" line="88" column="121" />
-        <mark key="^" line="88" column="121" />
-        <mark key="." line="88" column="121" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-boot/1.3.0/mc-boot-1.3.0-sources.jar!/com/mchuan/support/kit/RequestKit.java" timestamp="1553929051939" />
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-mq/1.5.0/mc-mq-1.5.0-sources.jar!/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1553935273730" />
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/s3main/Sms3RouteMapper.java" timestamp="1553957250401" />
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/resources/application.properties" timestamp="1553958356220">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EventLoopGroupFactory.java" timestamp="1553956087896" />
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1553935535388" />
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1553956019036">
-        <mark key="[" line="62" column="82" />
-        <mark key="]" line="62" column="39" />
-        <mark key="^" line="62" column="39" />
-        <mark key="." line="62" column="39" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitCandidateConsumer.java" timestamp="1553935734649">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="27" column="88" />
-        <mark key="^" line="27" column="88" />
-        <mark key="." line="27" column="88" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" timestamp="1553929426858">
-        <mark key="[" line="152" column="61" />
-        <mark key="]" line="152" column="60" />
-        <mark key="^" line="152" column="60" />
-        <mark key="." line="152" column="60" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1553921745898">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/PoolTimeTempService.java" timestamp="1553938847716" />
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsDispatchConsumer.java" timestamp="1553938960634" />
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1553960935163" />
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsBufferConsumer.java" timestamp="1553956142721">
-        <mark key="[" line="57" column="55" />
-        <mark key="]" line="52" column="90" />
-        <mark key="^" line="52" column="90" />
-        <mark key="." line="52" column="90" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsBufferConsummer.java" timestamp="1553935800054">
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="54" column="37" />
-        <mark key="^" line="54" column="37" />
-        <mark key="." line="54" column="37" />
       </file>
       <file name="/fragment.java" timestamp="1553957970079">
         <mark key="[" line="0" column="0" />
@@ -144,37 +133,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEVuZHBvaW50TWFuYWdlci5JTlMucmVtb3ZlKHJvdXRlSWQgKyAiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>msgs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZnJlc2hlclBvb2wuc2NoZWR1bGUoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIC8vINK7w+u689TZ1tjBrCyx3MPis6zL2QogICAgICAgICAgICAgICAgfSwgMSwgVGltZVVuaXQuU0VDT05EUyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFbmRwb2ludE1hbmFnZXIuSU5TLnJlbW92ZShyb3V0ZUlkICsgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVuZHBvaW50TWFuYWdlci5JTlMucmVtb3ZlKHJvdXRlSWQgKyAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFvbGRQYXJhbXMuZXF1YWxzKG5ld1BhcmFtcykpIHsKICAgICAgICAgICAgICAgIEVuZHBvaW50TWFuYWdlci5JTlMucmVtb3ZlKHJvdXRlSWQgKyAiIik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWkxQYXJhbSBuZXdQYXJhbXMgPSBKc29uS2l0LmZyb21Kc29uKEpzb25LaXQudG9Kc29uKHByb3BzKSwgWkxQYXJhbS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyW10gY2hhcnMgPSBzdHIudG9DaGFyQXJyYXkoKTsKCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjaGFycy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBjaGFyIGMgPSBjaGFyc1tpXTsKICAgICAgICAgICAgaWYgKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdHIuY2hhcmNjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWkxQYXJhbSBuZXdQYXJhbXMgPSBKc29uS2l0LmZyb21Kc29uKEpzb25LaXQudG9Kc29uKHByb3BzKSwgWkxQYXJhbS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>msgs</text>
       </register>
     </registers>
     <search>
