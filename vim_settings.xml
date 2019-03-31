@@ -71,21 +71,21 @@
         <mark key="^" line="152" column="60" />
         <mark key="." line="152" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553921745898">
+      <file name="/Dummy.txt" timestamp="1554008390732">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/StringKit.java" timestamp="1554005828469">
-        <mark key="[" line="90" column="20" />
-        <mark key="]" line="90" column="20" />
-        <mark key="." line="90" column="20" />
-        <mark key="^" line="90" column="20" />
+      <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/StringKit.java" timestamp="1554008527686">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="71" column="40" />
+        <mark key="." line="76" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1554005973795" />
-      <file name="D:/code/lab/base/mc-core/src/test/java/com/mchuan/core/kit/StringKitTest.java" timestamp="1554006057222">
-        <mark key="[" line="82" column="62" />
-        <mark key="]" line="84" column="32" />
-        <mark key="^" line="84" column="32" />
-        <mark key="." line="84" column="32" />
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1554008462017" />
+      <file name="D:/code/lab/base/mc-core/src/test/java/com/mchuan/core/kit/StringKitTest.java" timestamp="1554008536831">
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="85" column="12" />
+        <mark key="^" line="94" column="14" />
+        <mark key="." line="85" column="12" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsBufferConsumer.java" timestamp="1553956142721">
         <mark key="[" line="57" column="55" />
@@ -126,7 +126,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1554005829244">
+      <file name="/fragment.java" timestamp="1554008390748">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -135,40 +135,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09IiArIChlbmQtc3RhcnQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5U2V0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09IiArIChlbmQtc3RhcnQpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>List</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nW10gcGhvbmVzID0gU3RyaW5nS2l0LnN0cmluZzJMb25nQXJyYXkoc3RyKTsKICAgICAgICBhc3NlcnRFcXVhbHMoMzA0NTIsIHBob25lcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBhc3NlcnRFcXVhbHMoMzA0NTIsIHBob25lcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEVNUFRZX0lOVF9BUlJBWTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZ1tdIEVNUFRZX0lOVF9BUlJBWSA9IG5ldyBTdHJpbmdbMF07Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFtjdXJyZW50UG9zKytdID0gTG9uZy5wYXJzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY3VycmVudFBvcyA9IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nW10gcmVzdWx0ID0gbmV3IGxvbmdbc3RyLmxlbmd0aCgpXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>List</text>
       </register>
     </registers>
     <search>
