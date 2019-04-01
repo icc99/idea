@@ -73,11 +73,11 @@
         <mark key="^" line="152" column="60" />
         <mark key="." line="152" column="60" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1554089943335">
-        <mark key="[" line="179" column="40" />
-        <mark key="]" line="179" column="37" />
-        <mark key="^" line="179" column="37" />
-        <mark key="." line="179" column="37" />
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1554105414510">
+        <mark key="[" line="363" column="12" />
+        <mark key="]" line="363" column="34" />
+        <mark key="^" line="363" column="34" />
+        <mark key="." line="363" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1554019986609">
         <mark key="[" line="0" column="0" />
@@ -89,6 +89,11 @@
         <mark key="." line="78" column="36" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/model/ZLParam.java" timestamp="1554100358706" />
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsDispatchConsumer.java" timestamp="1554104641105">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1554102240978">
         <mark key="[" line="148" column="9" />
         <mark key="]" line="148" column="0" />
@@ -152,37 +157,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5U2V0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>normalSubmits</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuemFkZChtdFBvb2xLZXksIEl0ZXJhYmxlcy50b0FycmF5KHNjb3JlZFZhbHVlcywgU2NvcmVkVmFsdWUuY2xhc3MpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>routeIdList</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTbXMzUm91dGUgc21zM1JvdXRlID0gc21zM1JvdXRlU2VydmljZS5xdWVyeUJ5SWQoYmFja3VwU2VuZGVkLmdldFJvdXRlaWQoKSk7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHNwbnVtYmVyID0gZ2V0U3BudW1iZXIoc3VibWl0LCBiYWNrdXBTZW5kZWQuZ2V0Um91dGVpZCgpLCBzbXMzUm91dGUuZ2V0U3BudW1iZXIoKSk7CiAgICAgICAgICAgICAgICAgICAgYmFja3VwU2VuZGVkLnNldFNwbnVtYmVyKHNwbnVtYmVyKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0cy50bwo=</text>
+        <text encoding="base64">ICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuemFkZChtdFBvb2xLZXksIEl0ZXJhYmxlcy50b0FycmF5KHNjb3JlZFZhbHVlcywgU2NvcmVkVmFsdWUuY2xhc3MpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzY29yZWRWYWx1ZXMuc3RyZWFtKCkudG9BcnJheShTY29yZWRWYWx1ZTxTdHJpbmc6Om5ldykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY29yZWRWYWx1ZTxTdHJpbmc+W10gYSA9IG5ldyBTY29yZWRWYWx1ZVtzY29yZWRWYWx1ZXMuc2l6ZSgpXTsKICAgICAgICBTY29yZWRWYWx1ZTxTdHJpbmc+W10gc2NvcmVkVmFsdWVBcnJheXMgPSBzY29yZWRWYWx1ZXMudG9BcnJheShhKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0cy50bwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzY29yZWRWYWx1ZXMuc3RyZWFtKCkudG9BcnJheShTY29yZWRWYWx1ZTxTdHJpbmc6Om5ldykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTY29yZWRWYWx1ZTxTdHJpbmc+W10gYSA9IG5ldyBTY29yZWRWYWx1ZVtzY29yZWRWYWx1ZXMuc2l6ZSgpXTsKICAgICAgICBTY29yZWRWYWx1ZTxTdHJpbmc+W10gc2NvcmVkVmFsdWVBcnJheXMgPSBzY29yZWRWYWx1ZXMudG9BcnJheShhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>normalSubmits</text>
+        <text>routeIdList</text>
       </register>
     </registers>
     <search>
