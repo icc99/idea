@@ -12,6 +12,7 @@
       <file name="D:/code/mchuan/SMSGate/pom.xml" timestamp="1553872109915">
         <mark key="[" line="6" column="19" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/cmpp/ZLParamCache.java" timestamp="1554132757267" />
       <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/ReportRescuerApp.java" timestamp="1554126495931">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="81" />
@@ -38,7 +39,12 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/model/Sms3Report.java" timestamp="1554128302438" />
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/model/ZLParam.java" timestamp="1554100358706" />
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/model/ZLParam.java" timestamp="1554132685719">
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="67" column="30" />
+        <mark key="." line="67" column="30" />
+        <mark key="^" line="67" column="30" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.2.RELEASE/lettuce-core-5.1.2.RELEASE-sources.jar!/io/lettuce/core/ScoredValue.java" timestamp="1554024654630" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1554002900443">
         <mark key="[" line="135" column="5" />
@@ -63,11 +69,10 @@
         <mark key="." line="79" column="36" />
         <mark key="^" line="79" column="36" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/CmppBusinessHandler.java" timestamp="1554131246345">
-        <mark key="[" line="118" column="45" />
-        <mark key="]" line="118" column="51" />
-        <mark key="^" line="118" column="51" />
-        <mark key="." line="118" column="51" />
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/CmppBusinessHandler.java" timestamp="1554132789429">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/SMSGateway.java" timestamp="1554126902128">
         <mark key="[" line="17" column="37" />
@@ -105,7 +110,7 @@
         <mark key="]" line="272" column="0" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1554131533370">
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLService.java" timestamp="1554132169776">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
@@ -140,40 +145,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0icm91dGVJZCE9bnVsbCBhbmQgcm91dGVJZD0wIj4KICAgICAgICAgICAgcm91dGVpZD0je3JvdXRlSWR9LAogICAgICAgIDwvaWY+Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoInNwbnVtYmVyX2xlbmd0aCIpCiAgICBwcml2YXRlIEludGVnZXIgc3BudW1iZXJMZW5ndGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuZXhlYygpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuZXhlYygpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMubXVsdGkoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemxidWZSZWRpc0NvbW1hbmRzLm11bHRpKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGVzdElkID0gU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhkZWxpdmVyLmdldERlc3RJZCgpKSA/IGRlbGl2ZXIuZ2V0RGVzdElkKCkgOiByZXBvcnRNc2cuZ2V0RGVzdHRlcm1pbmFsSWQoKTsKICAgICAgICByZXBvcnQuc2V0UnB0U3BudW1iZXIoZGVzdElkKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuZXhlYygpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMubXVsdGkoKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuZXhlYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgemxidWZSZWRpc0NvbW1hbmRzLm11bHRpKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN1cHBsaWVyU3VibWl0cy5TdXBwbGllclN1Ym1pdCBzdWJtaXQgOiBzdXBwbGllclN1Ym1pdHMuZ2V0U3VibWl0cygpKSB7CiAgICAgICAgICAgIFN0cmluZyBzZW5kbnVtYmVyID0gZ2V0U2VuZG51bWJlcih6bFBhcmFtLCBzdWJtaXQpOwogICAgICAgICAgICBDb250ZW50IGNvbnRlbnQgPSBjcmVhdGVDb250ZW50KHN1Ym1pdC5nZXRDb250ZW50KCksIHpsUGFyYW0pOwoKCiAgICAgICAgICAgIFN1cHBsaWVyU3VibWl0cy5TdXBwbGllclN1Ym1pdFJlc3AgcmVzcCA9IG5ldyBTdXBwbGllclN1Ym1pdHMuU3VwcGxpZXJTdWJtaXRSZXNwKCk7CiAgICAgICAgICAgIHJlc3Auc2V0SWQoc3VibWl0LmdldElkKCkpOwogICAgICAgICAgICByZXNwLnNldFBob25lKHN1Ym1pdC5nZXRQaG9uZSgpKTsKICAgICAgICAgICAgcmVzcC5zZXRSZXR1cm5Db2RlKCIwIik7CiAgICAgICAgICAgIHJlc3Auc2V0SW5mbygis8m5piIpOwogICAgICAgICAgICByZXNwTGlzdC5hZGQocmVzcCk7CgogICAgICAgICAgICBpZiAoZmFpbFBob25lcy5jb250YWlucyhzdWJtaXQuZ2V0UGhvbmUoKSkpIHsKICAgICAgICAgICAgICAgIHJlc3Auc2V0UmV0dXJuQ29kZSgiLTIxIik7CiAgICAgICAgICAgICAgICByZXNwLnNldEluZm8oIrraw/u1pbrFwus6IiArIHN1Ym1pdC5nZXRQaG9uZSgpKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBTdHJpbmcgZmFpbGVkV29yZCA9IHNtczNSb3V0ZVNlcnZpY2UuZmluZEZhaWxlZFdvcmQoY29udGVudC50b1N0cmluZygpLCB6bFJvdXRlSWQpOwogICAgICAgICAgICBpZiAoZmFpbGVkV29yZCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXNwLnNldFJldHVybkNvZGUoIi0yMiIpOwogICAgICAgICAgICAgICAgcmVzcC5zZXRJbmZvKCK62rTKOiIgKyBmYWlsZWRXb3JkKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJlc3Auc2V0TWNvdW50KChzaG9ydCkgU21zS2l0LmdldE1jb3VudChjb250ZW50LnRvU3RyaW5nKCkpKTsKICAgICAgICAgICAgcmVzcC5zZXRTcG51bWJlcihzZW5kbnVtYmVyKTsKCiAgICAgICAgICAgIGludCByYXRpbyA9IHpsUGFyYW0uZ2V0UmF0aW8oKSAhPSBudWxsID8gemxQYXJhbS5nZXRSYXRpbygpIDogZGVmYXVsdFJhdGlvOwogICAgICAgICAgICBkb3VibGUgc2NvcmUgPSBnZXRTY29yZSh6bFJvdXRlSWQsIGNvbnRlbnQudG9TdHJpbmcoKSwgcmF0aW8pOwoKICAgICAgICAgICAgaWYgKHNjb3JlID4gRGF0ZXRpbWVLaXQubm93SW5NaWxscygpLzEwMDAgLSAyKSB7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygi08XPyLeiy80sc2NvcmU9e30scG9vbFNpemU9e30sc3VibWl0PXt9Iiwgc2NvcmUsIG10UG9vbFNpemUsIHN1Ym1pdCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgWkxTbXNPYmogemxTbXNPYmogPSBjcmVhdGVabFNtc09iaihzdWJtaXQsIHNlbmRudW1iZXIsIGNvbnRlbnQpOwogICAgICAgICAgICBzY29yZWRWYWx1ZXMuYWRkKFNjb3JlZFZhbHVlLmp1c3Qoc2NvcmUsIEpzb25LaXQudG9Kc29uKHpsU21zT2JqKSkpOwoKICAgICAgICAgICAgaW50IHZpcnR1YWxSb3V0ZUlkID0gc3VwcGxpZXJTdWJtaXRzLmdldFJvdXRlSWQoKTsKICAgICAgICAgICAgemxidWZSZWRpc0NvbW1hbmRzLnNldGV4KFJlZGlzS2V5LnNwcm91dGVtYXAudG9LZXkoc2VuZG51bWJlciksIDQ4ICogNjAgKiA2MCwgdmlydHVhbFJvdXRlSWQrIiIpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHNjb3JlZFZhbHVlcy5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgIHpsYnVmUmVkaXNDb21tYW5kcy56YWRkKG10UG9vbEtleSwgSXRlcmFibGVzLnRvQXJyYXkoc2NvcmVkVmFsdWVzLCBTY29yZWRWYWx1ZS5jbGFzcykpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuZXhlYygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMubXVsdGkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>routeId</text>
+        <text>spnumber</text>
       </register>
     </registers>
     <search>
