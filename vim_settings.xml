@@ -4,6 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="D:/code/mchuan/SMS4/report-service/src/test/java/com/mchuan/report/mq/SmsSendedConsumerTest.java" timestamp="1554124235430" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionStateManager.java" timestamp="1554188742803" />
+      <file name="/a.dummy" timestamp="1554188994816">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/Sms4ApiApp.java" timestamp="1554123938270" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/RouteFilter.java" timestamp="1554030569956" />
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/cmpp/ZLParamCache.java" timestamp="1554132757267" />
@@ -36,6 +40,14 @@
         <mark key="^" line="67" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.2.RELEASE/lettuce-core-5.1.2.RELEASE-sources.jar!/io/lettuce/core/ScoredValue.java" timestamp="1554024654630" />
+      <file name="D:/code/mchuan/SMS4/pom.xml" timestamp="1554020161175">
+        <mark key="[" line="61" column="24" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLRouteManager.java" timestamp="1554187546992">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3SubNumberService.java" timestamp="1554030526165" />
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/application.properties" timestamp="1554123880668" />
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/resources/application.properties" timestamp="1554127259275">
@@ -67,11 +79,20 @@
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsSendedConsumer.java" timestamp="1554128261243" />
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1554128081143" />
       <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.12-MC/cmpp-core-2.1.12-MC.jar!/com/zx/sms/connect/manager/cmpp/CMPPClientEndpointEntity.class" timestamp="1554185977135" />
+      <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" timestamp="1554190629969">
+        <mark key="'" line="230" column="14" />
+        <mark key="[" line="254" column="5" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1554107557977">
         <mark key="[" line="363" column="12" />
         <mark key="]" line="363" column="34" />
         <mark key="^" line="363" column="34" />
         <mark key="." line="363" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554127166988">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1554128404197">
         <mark key="[" line="353" column="0" />
@@ -121,43 +142,44 @@
       <jump line="18" column="16" filename="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/constants/Constants.java" />
       <jump line="84" column="34" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" />
       <jump line="103" column="4" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" />
+      <jump line="229" column="14" filename="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoInNwbnVtYmVyX2xlbmd0aCIpCiAgICBwcml2YXRlIEludGVnZXIgc3BudW1iZXJMZW5ndGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoemxidWZSZWRpc0NvbW1hbmRzLmV4aXN0cyhzbXNTZW50S2V5KSA9PSAwKSB7CgogICAgICAgICAgICBsb25nIHRpbWVvdXRTZWNvbmRzID0gVGltZVVuaXQuREFZUy50b1NlY29uZHMoMSk7CiAgICAgICAgICAgIHpsYnVmUmVkaXNDb21tYW5kcy5leHBpcmUoc21zU2VudEtleSwgdGltZW91dFNlY29uZHMpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHNhZGQgPSB6bGJ1ZlJlZGlzQ29tbWFuZHMuc2FkZChzbXNTZW50S2V5LCBtc2dJZCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoemxidWZSZWRpc0NvbW1hbmRzLmV4aXN0cyhzbXNTZW50S2V5KSA9PSAwKSB7CgogICAgICAgICAgICBsb25nIHRpbWVvdXRTZWNvbmRzID0gVGltZVVuaXQuREFZUy50b1NlY29uZHMoMSk7CiAgICAgICAgICAgIHpsYnVmUmVkaXNDb21tYW5kcy5leHBpcmUoc21zU2VudEtleSwgdGltZW91dFNlY29uZHMpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHNhZGQgPSB6bGJ1ZlJlZGlzQ29tbWFuZHMuc2FkZChzbXNTZW50S2V5LCBtc2dJZCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2FkZCA9IHpsYnVmUmVkaXNDb21tYW5kcy5zYWRkKHNtc1NlbnRLZXksIG1zZ0lkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91dGVGaWx0ZXIuZmlsdGVyKHN1Ym1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gzOG9u7j4yc+80sqnsNwsINaxvdO3xbvYyKVyZWRpcwogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcga2V5ID0gUmVkaXNLZXkubXRQb29sLnRvS2V5KHJvdXRlSWQpOwogICAgICAgICAgICAgICAgICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMucnB1c2goa2V5LCBKc29uS2l0LnRvSnNvbih6bFNtc09iaikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91dGVGaWx0ZXIuZmlsdGVyKHN1Ym1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgemxidWZSZWRpc0NvbW1hbmRzLnNyZW0oc21zU2VudEtleSwgbXNnSWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb25nQWRkZXIgYWRkZXIgPSByYXRlcy5jb21wdXRlSWZBYnNlbnQocm91dGVJZCwgciAtPiBuZXcgTG9uZ0FkZGVyKCkpOwogICAgICAgICAgICAgICAgICAgIGFkZGVyLmFkZChTbXNLaXQuZ2V0TWNvdW50KHN1Ym1pdE1zZy5nZXRNc2dDb250ZW50KCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGVzdElkID0gU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhkZWxpdmVyLmdldERlc3RJZCgpKSA/IGRlbGl2ZXIuZ2V0RGVzdElkKCkgOiByZXBvcnRNc2cuZ2V0RGVzdHRlcm1pbmFsSWQoKTsKICAgICAgICByZXBvcnQuc2V0UnB0U3BudW1iZXIoZGVzdElkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB6bGJ1ZlJlZGlzQ29tbWFuZHMuZXhlYygpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVGaWx0ZXIuZmlsdGVyKHN1Ym1pdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVGaWx0ZXIuZmlsdGVyKHN1Ym1pdCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>spnumber</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
