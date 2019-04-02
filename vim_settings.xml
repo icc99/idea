@@ -36,9 +36,6 @@
         <mark key="^" line="67" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.2.RELEASE/lettuce-core-5.1.2.RELEASE-sources.jar!/io/lettuce/core/ScoredValue.java" timestamp="1554024654630" />
-      <file name="D:/code/mchuan/SMS4/pom.xml" timestamp="1554020161175">
-        <mark key="[" line="61" column="24" />
-      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3SubNumberService.java" timestamp="1554030526165" />
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/application.properties" timestamp="1554123880668" />
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/resources/application.properties" timestamp="1554127259275">
@@ -69,14 +66,12 @@
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsSendedConsumer.java" timestamp="1554128261243" />
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1554128081143" />
+      <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.12-MC/cmpp-core-2.1.12-MC.jar!/com/zx/sms/connect/manager/cmpp/CMPPClientEndpointEntity.class" timestamp="1554185977135" />
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1554107557977">
         <mark key="[" line="363" column="12" />
         <mark key="]" line="363" column="34" />
         <mark key="^" line="363" column="34" />
         <mark key="." line="363" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554127166988">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1554128404197">
         <mark key="[" line="353" column="0" />
@@ -89,7 +84,7 @@
         <mark key="^" line="78" column="34" />
         <mark key="." line="78" column="36" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsDispatchConsumer.java" timestamp="1554172961746">
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsDispatchConsumer.java" timestamp="1554185952616">
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
         <mark key="." line="272" column="0" />
