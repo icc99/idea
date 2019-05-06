@@ -8,7 +8,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1557161387084" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.0.0/nacos-client-1.0.0-sources.jar!/com/alibaba/nacos/client/logging/log4j2/Log4J2NacosLogging.java" timestamp="1557160843099" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.0.0/nacos-client-1.0.0-sources.jar!/com/alibaba/nacos/client/utils/LogUtils.java" timestamp="1557161485860" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.0.0/nacos-client-1.0.0-sources.jar!/com/alibaba/nacos/client/utils/LogUtils.java" timestamp="1557161597270" />
       <file name="$USER_HOME$/code/sms4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/ZLRouteManager.java" timestamp="1557157880122">
         <mark key="[" line="80" column="46" />
         <mark key="]" line="80" column="47" />
